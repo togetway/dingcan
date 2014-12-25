@@ -2,7 +2,7 @@ dingcan
 =======
 
 ##点餐系统
-参考 ![餐库](https://github.com/willerce/canku)
+参考 餐库: https://github.com/willerce/canku
 
 
 基于餐库上做了修改，使用了php进行重写
