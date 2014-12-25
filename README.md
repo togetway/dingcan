@@ -27,3 +27,11 @@ dingcan
 4、设置公司补贴金额，超出部分才扣费
 5、一键RTX通知用户点餐
 
+
+=======
+![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/food.png)
+![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/order.png)
+![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/admin_shop.png)
+![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/admin_chongzhi.png)
+![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/admin_chongzhi.png)
+![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/shop_del.png)
