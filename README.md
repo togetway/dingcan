@@ -29,9 +29,17 @@ dingcan
 
 
 =======
+选取食物界面
 ![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/food.png)
+
+查看定单界面
 ![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/order.png)
+
+后台店铺界面
 ![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/admin_shop.png)
+
+后台充值界面
 ![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/admin_chongzhi.png)
-![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/admin_chongzhi.png)
+
+删除店铺界面
 ![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/shop_del.png)
