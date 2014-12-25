@@ -10,7 +10,7 @@ $HOUR = date("H");
 <html lang="zh-cn">
 <head>
   <meta charset="UTF-8">
-  <title>点餐系统 - 游易网络</title>
+  <title>点餐系统</title>
   <link href="/static/css/style.css" rel="stylesheet" type="text/css"/>
   <script type="text/javascript" src="/static/js/jquery.js"></script>
   <script src="/static/artDialog/artDialog.js?skin=default"></script>
