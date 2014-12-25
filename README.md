@@ -29,9 +29,9 @@ dingcan
 
 
 =======
-![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/food.png)
-![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/order.png)
-![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/admin_shop.png)
-![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/admin_chongzhi.png)
-![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/admin_chongzhi.png)
-![Image text](https://github.com/togetway/dingcan/tree/master/demo_img/shop_del.png)
+![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/food.png)
+![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/order.png)
+![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/admin_shop.png)
+![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/admin_chongzhi.png)
+![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/admin_chongzhi.png)
+![Image text](https://github.com/togetway/dingcan/blob/master/demo_img/shop_del.png)
